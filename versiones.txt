@@ -1,0 +1,11 @@
+Python 3.11.15
+streamlit==1.60.0
+pillow==12.3.0
+numpy==2.4.6
+tensorflow==2.20.0
+opencv-python-headless==5.0.0.93
+ultralytics==8.4.104
+matplotlib==3.11.1
+scikit-image==0.26.0
+psutil==7.2.2
+onnxruntime==1.27.0
